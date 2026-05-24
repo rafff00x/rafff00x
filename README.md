@@ -14,8 +14,8 @@ Building practical AI systems with Python, Deep Learning and Computer Vision.
 - 👁️ Focused on **Computer Vision**
 - 🎯 Working with **Transfer Learning & Fine-Tuning**
 - 📦 Building practical **AI-powered projects**
-- 🛒 Developing a **Smart Shopping Cart with Raspberry Pi**
-- 🔍 Learning **Object Detection with YOLO**
+- 🛒 Developing a **Smart Shopping Cart**
+- 🔍 Learning **Object Detection**
 - 🌱 Continuously improving every day
 
 ---
