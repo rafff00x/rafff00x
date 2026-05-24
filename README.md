@@ -36,19 +36,10 @@ Building practical AI systems with Python, Deep Learning and Computer Vision.
 
 ---
 
-## 📌 Current Projects
+## 📌 Best Project
 
 ### 🛒 Smart Shopping Cart AI
 Computer vision shopping assistant powered by Raspberry Pi.
-
-### 🧠 Image Classification
-Deep neural network image classification experiments.
-
-### 🎯 YOLO Object Detection
-Real-time object detection and recognition.
-
-### 🔬 Transfer Learning
-Fine-tuning pre-trained models for custom datasets.
 
 ---
 
