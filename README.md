@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rafayel Babayan</h1>
-<h3 align="center">Aspiring AI / ML Engineer | Deep Learning & Computer Vision Enthusiast</h3>
+<h3 align="center">AI / ML Engineer | Deep Learning & Computer Vision Enthusiast</h3>
 
 <p align="center">
 Building practical AI systems with Python, Deep Learning and Computer Vision.
